@@ -1,0 +1,86 @@
+
+	#widget_other_c_html_84114 .widget-items {border:transparent;}
+
+
+	#widget_other_c_html_84114 .widget-header {
+	box-sizing: border-box;
+	position: relative;
+	z-index: 99999;
+	background: #b5e2f7;
+	border: #b5e3f8;
+	box-shadow: 0 20px 10px #b5e2f7;
+	}
+
+	#widget_other_c_html_84114 .widget-header h3 {
+	color: #006fbb;
+	}
+
+	.list-unstyled {
+	padding-right: 10px;
+	}
+
+	.container-news { 
+	padding:15px 19px;
+	width: 100%;
+	height: 200px;
+	/*margin: 1em auto;*/
+	overflow: hidden;
+	background: #c1e4f5;
+	position: relative;
+	box-sizing: border-box;
+	}
+
+	.container-news ul li {
+	line-height: 23px;
+	margin-bottom: 15px;
+	}
+
+	.marquee {
+	top: 6em;
+	position: relative;
+	box-sizing: border-box;
+	animation: marquee 13s linear infinite;
+	/*overflow: hidden;*/
+	box-sizing: border-box;
+	}
+
+	.marquee:hover {
+	animation-play-state: paused;
+	}
+
+	/* Make it move! */
+	/*@keyframes marquee {
+	0%   { top:   8em }
+	100% { top: -11em }
+	}*/
+	/* Make it move! */
+	@keyframes marquee {
+	0%   { top:   12em }
+	100% { top: -15em }
+	}
+
+	/*--------------------------------*/
+
+	div#widget_other_c_html_84114 ul li:before {
+	content: '';
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	margin-top: 3px;
+	padding-right: 10px;
+	background-image: url(http://www.tfac.or.th/upload/9414/H8rhp5C148.png);
+	background-repeat: no-repeat;
+	}
+	div#widget_other_c_html_84114 ul li span{
+	padding-left: 25px;
+	}
+
+	.wh-new-list a{
+	color: #0a70b9;
+	}
+	.wh-new-list a:hover{
+	color: #0c3ab1;
+	}
+	.wh-new-list a {
+	font-size: 16px;
+	}

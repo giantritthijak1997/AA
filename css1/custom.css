@@ -1,0 +1,723 @@
+body {
+    /*background: #848585;*/
+    font-family: 'Kanit', sans-serif;
+}
+
+.header-3 {
+    /*background: #c4d2cd;*/
+}
+
+    .header-3 .logo-container {
+        background: #381852;
+    }
+
+.kode-inner-banner {
+    background: #414242;
+}
+
+.padding-tb-50 {
+    padding-top: 25px;
+    padding-bottom: 20px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Kanit', sans-serif;
+    font-weight: bold;
+}
+
+h6 {
+    color: #2b2b2b;
+    font-family: 'Kanit', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.widget-new-arrival ul li .kode-text p {
+    font-family: 'Kanit', sans-serif;
+}
+
+.kode-text p {
+    font-family: 'Kanit', sans-serif;
+    color: #666;
+    font-size: 14px;
+}
+
+.kode-service-3 a {
+    color: #2b2b2b;
+    font-family: 'Kanit', sans-serif;
+    font-size: 14.8px;
+    font-weight: 400;
+}
+
+select {
+    height: 38px;
+    border-radius: 2px;
+    width: 100%;
+    padding: 6px 10px;
+    color: #000000;
+}
+.search-section {
+    padding: 0px 0px;
+    background-color: #271e1a;
+    width: 100%;
+    float: left;
+}
+.search-section .form-container {
+    padding: 10px 0px;
+}
+
+    .search-section .form-container input {
+        height: 38px;
+        color: #000000;
+        background-color: #ffffff;
+    }
+
+        .search-section .form-container input:focus {
+            background: #414242;
+            background-color: #ffffff;
+        }
+
+
+    .search-section .form-container button {
+        height: 38px;
+        border-radius: 2px;
+        text-transform: unset;
+        font-weight: normal;
+        padding: unset;
+        margin-bottom: 0px;
+    }
+
+    .search-section .form-container input[type="submit"] {
+        background-color: #ff9606;
+        color: #ffffff;
+        height: 38px;
+        border-radius: 2px;
+        text-transform: unset;
+        font-weight: normal;
+        font-size: 16px;
+        padding: unset;
+        margin-bottom: 0px;
+    }
+
+        .search-section .form-container input[type="submit"]:hover {
+            background: #fff;
+            color: #000;
+        }
+
+.radio-inline {
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+    .radio-inline input[type=radio] {
+        position: absolute;
+        /*margin-top: 4px\9;*/
+        margin-left: -50px;
+        height: 20px;
+    }
+
+.input[type=radio] {
+    margin: 4px 0 0;
+    /*margin-top: 1px\9;*/
+    line-height: normal;
+}
+
+.radio-inline + .radio-inline {
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.kode-content section:first-child {
+    padding: 10px 0px 20px;
+}
+
+.kode-content section.kode-about-us-section {
+    background: #ffffff;
+    margin-top: -30px;
+    padding-top: 70px;
+    padding-bottom: 40px;
+}
+
+.heading-1 h2 {
+    font-size: 28px;
+    /* font-family: 'Raleway', sans-serif; */
+    font-family: 'Kanit', sans-serif;
+    margin: 0px 0px 15px 0px;
+    text-transform: inherit;
+    margin-top: -6px;
+
+ 
+}
+
+.about-thumb {
+    float: left;
+    width: 90%;
+    position: relative;
+}
+
+.kode-content section {
+    float: unset;
+}
+
+.kode-facts .nav-tabs > li > a {
+    font-size: 14px;
+    text-transform: unset;
+}
+
+.kode-facts .tab-content {
+    font-size: 14px;
+}
+
+section {
+    float: unset;
+}
+
+    /*1111
+=============================================
+			FROM THE BLOG
+=============================================
+*/
+    section.kode-blog-section {
+        padding: 50px 0px 20px;
+    }
+
+.kode-blog-list {
+    float: unset;
+    width: 100%;
+    background-color: #f9f9f9;
+    border: solid 1px #CCC;
+    /*margin-bottom:30px;*/
+    margin: 8px 0px 10px 0px;
+}
+
+    .kode-blog-list:hover {
+        box-shadow: 0px 10px 20px 0px rgba(0,0,0,0.3);
+        -moz-box-shadow: 0px 10px 20px 0px rgba(0,0,0,0.3);
+        -webkit-box-shadow: 0px 10px 20px 0px rgba(0,0,0,0.3);
+        background-color: #fff;
+        border-color: #f6f6f6;
+    }
+
+.kode-author-detail {
+    min-height: 100px;
+}
+
+    .kode-author-detail .kode-thumb {
+        float: left;
+        height: 59px;
+    }
+
+.kode-blog-list {
+    min-height: 180px;
+}
+
+    .kode-blog-list .kode-thumb {
+        float: left;
+        width: 100px;
+        position: relative;
+    }
+
+        .kode-blog-list .kode-thumb img {
+            width: 100px;
+        }
+
+    .kode-blog-list .kode-text {
+        padding: 12px 20px 12px 100px;
+    }
+
+.kode-blog-section .kode-blog-list .kode-text {
+    padding: 30px 20px 12px 290px;
+}
+
+.kode-blog-list .kode-text p {
+    margin: 0px 0px 5px;
+    padding: 0px;
+    font-size: 15px;
+}
+
+.kode-blog-section .kode-blog-list .kode-text p {
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+.kode-blog-list .kode-text h4 {
+    margin: 0px 0px 23px;
+    padding: 0px;
+}
+
+.kode-blog-list h4 {
+    font-size: 15px;
+    font-weight: normal;
+    position: relative;
+    margin: 0px 0px 10px 0px;
+    padding: 0px 0px 5px 0px;
+}
+
+    .kode-blog-list h4:before {
+        content: "";
+        width: 20px;
+        border-top: 1px solid;
+        border-bottom: 1px solid;
+        height: 5px;
+        position: absolute;
+        left: 0px;
+        bottom: -14px;
+    }
+
+.kode-blog-list a.more {
+    color: #333;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    position: relative;
+    margin: 0px 0px 0px 0px;
+}
+
+    .kode-blog-list a.more:hover:before {
+        right: -25px;
+    }
+
+    .kode-blog-list a.more:before {
+        content: "\f101";
+        position: absolute;
+        font-family: 'Kanit', sans-serif;
+        right: -20px;
+        top: -1px;
+        font-size: 16px;
+    }
+
+.kode-blog-list .blog-date {
+    position: absolute;
+    bottom: unset;
+    right: unset;
+    width: 90px;
+    text-align: center;
+    background-color: rgba(255,255,255,0.9);
+}
+
+.kode-blog-list:hover .blog-date {
+    width: 100%;
+}
+
+.kode-blog-list .blog-date p {
+    font-size: 22px;
+    font-family: 'Kanit', sans-serif;
+    margin: 5px 0px;
+}
+
+.kode-blog-list .blog-date span {
+    width: 100%;
+    float: left;
+    padding: 3px 0px;
+    color: #fff;
+}
+
+.kode-text h2, .lib-blog-2 .kode-text h3 {
+    font-family: 'Kanit', sans-serif;
+    font-size: 16px;
+}
+
+.kode-text-form h3, {
+    font-family: 'Kanit', sans-serif;
+    font-size: 18px;
+}
+
+.kode-author-detail {
+    margin: 8px 0px 10px 0px;
+    float: inherit;
+    background-color: #666;
+}
+
+    .kode-author-detail .kode-text h4 {
+        font-size: 14px;
+        text-transform: none;
+        line-height: normal;
+        margin: 0px;
+    }
+
+.widget-new-arrival ul li .bkode-thumb {
+    float: left;
+    width: 80px;
+    overflow: hidden;
+}
+
+.bkode-thumb {
+    float: left;
+    width: 270px;
+    position: relative;
+}
+
+bkode-thumb img {
+    width: 100%;
+}
+
+.kode-inner-banner {
+    float: left;
+    width: 100%;
+    background-image: url(../images/inner-banner.png);
+    background-size: cover;
+}
+/*
+=============================================
+			SERVICES SECTION cuss
+=============================================
+*/
+.kode-service-3 {
+    float: left;
+    width: 100%;
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+    border-bottom: solid 1px #dbdbdb;
+    margin-bottom: 0px;
+}
+
+    .kode-service-3 i {
+        color: #777;
+        height: 90px;
+        width: 90px;
+        border-radius: 15px;
+        border: solid 1px #ccc;
+        font-size: 40px;
+        padding: 24px 0px;
+        margin-bottom: 20px;
+    }
+
+    .kode-service-3:hover i {
+        border-width: 5px;
+        padding: 20px 0;
+    }
+
+    .kode-service-3 h3 {
+        text-transform: uppercase;
+        font-size: 20px;
+        margin: 0px 0px 12px 0px;
+    }
+
+        .kode-service-3 h3 a {
+            text-decoration: none;
+            color: #777;
+        }
+
+    .kode-service-3 a.read-more {
+        font-size: 14px;
+        font-weight: bold;
+        color: #777;
+        position: relative;
+        padding: 0px 0px 10px 0px;
+        text-decoration: none;
+    }
+
+        .kode-service-3 a.read-more:before {
+            content: "";
+            width: 20px;
+            height: 1px;
+            background-color: #777;
+            position: absolute;
+            left: 0px;
+            right: 0px;
+            margin: auto;
+            bottom: 0px;
+            text-decoration: none;
+        }
+
+.lib-qualities {
+    float: unset;
+    width: 100%;
+}
+
+    .lib-qualities ul {
+        list-style: none;
+        margin: 0px 0px 0px 0px;
+        float: unset;
+        width: 100%;
+    }
+
+        .lib-qualities ul li i {
+            height: 48px;
+            width: 48px;
+        }
+
+        .lib-qualities ul li {
+            float: unset;
+            width: 100%;
+            border-left: solid 1px #ddd;
+            border-bottom: solid 1px #ddd;
+            padding: 10px 0px 10px 40px;
+            position: relative;
+        }
+
+            .lib-qualities ul li:before {
+                content: "\f101";
+                font-family: FontAwesome;
+                font-size: 12px;
+                position: absolute;
+                left: 0px;
+                right: 0px;
+                margin: auto;
+                top: -15px;
+                height: 30px;
+                width: 40px;
+                background-color: #fff;
+                text-align: center;
+            }
+
+.box-index {
+    background: url(../Images/bg_box01.png) repeat-x;
+    margin: 5px 1px 5px 0px;
+    overflow: hidden;
+    padding: 0px 0px 5px 0px;
+}
+
+.rss.item {
+    float: left;
+    /* border: #F4F4F4 solid 1px; */
+    padding: 0px;
+    margin: 2px 5px 10px 2px;
+    display: block;
+    width: 125px;
+    max-height: 205px;
+    min-height: 205px;
+}
+
+.footer-3 {
+    background-image: url(../Images/footer-bg.png);
+}
+
+.lib-gallery {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.kode-content section.kode-about-db-section {
+    background: #ffffff;
+    margin-top: -10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    min-height: 300px;
+}
+
+
+.sidebar {
+    margin-bottom: 30px;
+    float: unset;
+    width: 100%;
+}
+
+.widget {
+    float: unset;
+    width: 100%;
+}
+
+/*
+=============================================
+			PAPULAR BOOKS SECTION
+=============================================
+*/
+
+.contentblack-section {
+    padding: 0px 0px 25px 20px;
+    background-color: #555;
+    width: 100%;
+    float: left;
+}
+
+.contentwith-section {
+    padding: 0px;
+    background-color: #f6f6f6;
+    width: 100%;
+    float: left;
+}
+
+.lib-papular-books {
+    padding: 0px 0px;
+}
+
+    .lib-papular-books .nav-tabs {
+        float: left;
+        text-align: center;
+        border: none;
+        float: right;
+    }
+
+    .lib-papular-books .tab-content {
+        float: left;
+        padding: 0px 15px 0px 15px;
+    }
+
+    .lib-papular-books .nav-tabs > li {
+        margin-top: 24px;
+    }
+
+        .lib-papular-books .nav-tabs > li > a {
+            display: block;
+            font-size: 14px;
+            font-weight: bold;
+            margin: 0px;
+            color: #333;
+            padding: 0px;
+            float: left;
+        }
+
+            .lib-papular-books .nav-tabs > li > a:hover, .lib-papular-books .nav-tabs > li.active > a, .lib-papular-books .nav-tabs > li.active > a:focus {
+                color: #fff;
+                outline: none;
+            }
+
+.lib-papular {
+    float: left;
+    width: 100%;
+    border: solid 1px #CCC;
+    padding: 10px 20px 10px 10px;
+    background-color: whitesmoke;
+}
+
+    .lib-papular .kode-thumb {
+        float: left;
+    }
+
+        .lib-papular .kode-thumb img {
+            float: left;
+            width: 100%;
+        }
+
+    .lib-papular .kode-text h2 {
+        font-size: 19px;
+        margin-bottom: 10px;
+    }
+
+    .lib-papular .kode-text h4 {
+        font-size: 14px;
+        margin: 0px 0px 10px;
+    }
+
+
+
+.section-heading-1 p {
+    margin-bottom: 17px;
+    color: #262626;
+}
+
+.section-heading-2 h3 {
+    margin-bottom: 26px;
+    color: #000000;
+}
+.lib-papular .lib-price {
+    float: left;
+    width: 100%;
+}
+
+    .lib-papular .lib-price h3 {
+        float: left;
+    }
+
+    .lib-papular .lib-price a {
+        float: right;
+        color: #333;
+        font-weight: bold;
+    }
+
+        .lib-papular .lib-price a:hover {
+            text-decoration: underline;
+        }
+
+.lib-papular-thumb {
+    float: left;
+    width: 45%;
+    border: solid 1px #CCC;
+    padding: 5px;
+}
+
+    .lib-papular-thumb img {
+        width: 45%;
+        float: left;
+    }
+
+.lib-papular-books .rating {
+    text-align: left;
+}
+
+    .lib-papular-books .rating > span {
+        color: #000;
+    }
+
+.latest-blog .tabs-container .tabs-list .tab-content article {
+    background-color: #fff;
+    float: left;
+    width: 100%;
+}
+
+    .latest-blog .tabs-container .tabs-list .tab-content article figure {
+        float: right;
+        position: relative;
+        width: 370px;
+    }
+
+.section-heading-1.dark-sec h3, .kode-author-detail .dark-sec-text, .section-heading-1.dark-sec h2, .section-heading-1.dark-sec p:after, .kode-author-detail.dark-sec p,
+.section-heading-1.dark-sec i, .section-heading-1.dark-sec h4, section.lib-call-to-action {
+    color: #fff;
+}
+.lib-copyrights {
+    float: right;
+    width: 100%;
+    text-align: right;
+}
+.section-heading-1.dark-sec h2 {
+    text-align: left;
+    font-size: 24px;
+    font-family: 'Kanit', sans-serif;
+}
+.dark-sec-text h4 {
+    font-size: 14px;
+    font-family: 'Kanit', sans-serif;
+
+}
+.dark-sec a {
+    font-size: 14px;
+    font-family: 'Kanit', sans-serif;
+    color : orange;
+}
+
+.dark-sec-right a {
+    font-size: 16px;
+    font-family: 'Kanit', sans-serif;
+    color: orange;
+    float: right;
+    width: 100%;
+    text-align: right;
+}
+.kode-author-detail .dark-sec-text {
+    padding: 0px 0px 0px 100px;
+    text-align: left;
+}
+.section-heading-1 {
+    float: left;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 0px;
+    position: relative;
+    margin-top: -5px;
+    font: bold;
+}
+
+.section-heading-2 {
+    float: left;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 0px;
+    position: relative;
+    margin-top: -5px;
+}
+section.lib-call-to-action {
+    background-color: #555;
+    text-align: center;
+    padding: 40px 0px 0px 0px;
+    position: relative;
+}
