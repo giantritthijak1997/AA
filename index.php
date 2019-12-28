@@ -358,7 +358,9 @@
   <script src="js/jquery.slitslider.js"></script>
   <script src="js/animate.js"></script>
 
-  <!-- Template Custom JavaScript File -->
+  <!-- Template Custom JavaScript -->
+
+  <!-- PAE -->
   <script src="js/custom.js"></script>
 
 </body>
